@@ -1,0 +1,78 @@
+********************
+| Kilder til teori |
+********************
+- https://github.com/Tobhal/Java-prog-2     -> brukte alle obligene mine til å lese hva jeg har skrevet i teori delen. denne linker til alle
+- Java A Beginner's Guide Boka
+
+
+Jeg brukte litt eksempler og informasjon fra alle disse stedene. Jeg har eksempel ikke noe erfaring med SQL så jeg lånte litt av eksempelet fra kildene
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
+- https://www.youtube.com/watch?v=-K7g0MElAeg
+- https://www.youtube.com/watch?v=dAPL7MQGjyM
+- https://www.youtube.com/watch?v=cgVVZMfLjEI&t
+- https://dev.to/matheusgomes062/programming-paradigm-2anb
+- https://dev.to/fannyvieira/the-beauty-of-functional-programming-32ck
+- https://tylermcginnis.com/imperative-vs-declarative-programming/
+- https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0
+- https://www.freecodecamp.org/news/functional-programming-principles-in-javascript-1b8fc6c3563f/
+
+-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
+
+*********************
+| Kilder til raport |
+*********************
+- https://hiof.instructure.com/courses/2907/files/folder/Presentasjoner?preview=631577
+
+
+
+***************************
+| Kilder til programering |
+***************************
+Har brukt kode fra gamle obliger
+
+
+Stacoverflow
+- https://stackoverflow.com/questions/2817695/how-does-java-order-items-in-a-hashmap-or-a-hashtable     -> for å finne ut hvorfor hashMapet var "sortert tilfeldig"
+- https://stackoverflow.com/questions/3395286/remove-last-character-of-a-stringbuilder
+- https://stackoverflow.com/questions/7056959/convert-string-to-equivalent-enum-value
+- https://stackoverflow.com/questions/14926148/java-enum-usage-getting-and-setting
+- https://stackoverflow.com/questions/1005073/initialization-of-an-arraylist-in-one-line
+
+
+Forelesnings Git
+- https://github.com/larseknu/programmering2_2020/tree/master/Forelesning14_Uke09_MVC_Javalin_Lambda
+- https://github.com/larseknu/programmering2_2020/tree/master/Forelesning15_Uke09_Lambda
+- https://github.com/larseknu/programmering2_2020/tree/master/Forelesning13_Uke08_Javalin_Gradle
+
+
+Presentasjoner
+https://hiof.instructure.com/courses/2907/files/folder/Presentasjoner?preview=631577
+
+
+JSON (lesing/skriving)
+- https://github.com/larseknu/programmering2_2020/blob/master/Forelesning17_Uke11_JSON_Collections/AfterLecture/01_FilSkriving_JSON/src/main/java/no/hiof/larseknu/json/model/Klasse.java
+- https://stackoverflow.com/questions/20837856/can-not-deserialize-instance-of-java-util-arraylist-out-of-start-object-token
+- https://stackoverflow.com/questions/35583425/java-cannot-resolve-symbol-of-in-localdate-of
+- https://github.com/FasterXML/jackson-modules-java8/issues/11
+- https://fasterxml.github.io/jackson-databind/javadoc/2.6/com/fasterxml/jackson/databind/SerializationFeature.html
+- https://codeboje.de/jackson-java-8-datetime-handling/
+- https://fasterxml.github.io/jackson-modules-java8/javadoc/datetime/2.9/com/fasterxml/jackson/datatype/jsr310/JavaTimeModule.html
+- https://mvnrepository.com/artifact/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/2.10.3
+- https://stackoverflow.com/questions/11531298/jackson-objectmapping-not-getting-json-data
+
+Random things
+- https://www.rangen.co.uk/world/planetgen.php
+- https://donjon.bin.sh/scifi/system/index.cgi
+- https://perchance.org/scientific-species-name
+- http://nmsgen.com/#
+- https://www.random.org/geographic-coordinates/
+- https://www.nationalgeographic.org/encyclopedia/biome/
+
+
+Andre sider
+- https://www.geeksforgeeks.org/localdate-format-method-in-java/
+- https://www.geeksforgeeks.org/convert-double-to-integer-in-java/
+- https://www.cs.sjsu.edu/~pearce/modules/lectures/uml2/class/index.htm     -> ULM Class diagram
+- https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input
+- https://www.w3schools.com/html/html_form_elements.asp
+- https://forum.vuejs.org/t/how-to-work-with-objects-as-select-option-values/45490/4
